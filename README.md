@@ -1,11 +1,10 @@
-![Header](./images/minecraft_header.png)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33c3ff&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Dilip+Samanta;Engineering+Manager;Cloud+Native+Architect;DevOps+Enthusiast" alt="Typing SVG" />
+<div align="center" style="position: relative; width: 100%; height: 200px; overflow: hidden;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33c3ff,100:7f00ff&height=200&section=header&text=Dilip%20Samanta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" height="200" alt="Header" style="width: 100%; height: 200px; object-fit: cover;" />
+  <img src="https://github.com/dilipsamanta.png?size=200" width="120" height="120" alt="Dilip Samanta" style="position: absolute; left: 50%; bottom: 10px; transform: translateX(-50%); border-radius: 9999px; border: 4px solid #0D1117;" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33c3ff&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B+I'm+Dilip+Samanta;Engineering+Manager;Cloud+Native+Architect;DevOps+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Building the Clouds, One Block at a Time ☁️</h3>
