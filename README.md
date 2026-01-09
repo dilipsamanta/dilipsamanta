@@ -58,8 +58,23 @@ graph LR
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilipsamanta&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Dilip's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsamanta&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=dilipsamanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏢 Gihub Organizations
+
+<div align="center">
+  <a href="https://github.com/dilipsamanta">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilipsamanta&theme=tokyonight" alt="Organizations" />
+  </a>
+</div>
 
 ---
 
