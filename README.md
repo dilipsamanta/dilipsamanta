@@ -57,12 +57,14 @@ graph LR
 
 ### 📊 GitHub Stats
 
+Dilip's Org GitHub Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilipsamanta&show_icons=true&theme=tokyonight&hide_border=true" alt="Dilip's GitHub Stats" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=dilipsamanta&theme=tokyonight&hide_border=true" alt="Dilip's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=orbitcluster&show_icons=true&theme=tokyonight&hide_border=true" alt="OrbitCluster Stats" />
+</div>
+</br>
+OrbitCluster GitHub Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=OrbitCluster&theme=tokyonight&hide_border=true" alt="OrbitCluster's GitHub Streak" />
 </div>
 
 ---
