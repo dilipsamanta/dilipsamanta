@@ -15,6 +15,19 @@
 
 ---
 
+### 💼 Work Experience
+
+| Role | Company | Dates | Location | Highlights |
+| --- | --- | --- | --- | --- |
+| Engineering Manager | First American India | 2021–Present | Bangalore, India | Microservices scale (20K→100K RPU); Self-service “Golden Path”; -$400K/month cloud cost optimization |
+| Technical Program Manager | Sigma InfoSolutions | 2020–2021 | Bangalore, India | Led DevOps function; AWS CI/CD delivery; On-prem to AWS migration |
+| Development Project Manager | Prime Focus Technologies | 2020 | Bangalore, India | Warner Media programs; Agile delivery; UAT/integration testing and production support |
+| Development Project Manager | Taqniat Intelligent Solutions / Securetech LLC / Etisbew | 2011–2020 | Abu Dhabi, UAE | Microservices architecture; Scoped/contracted delivery; Coordinated release management |
+| Technical Lead | Bank of America | 2008–2011 | — | Technical leadership and delivery |
+| Software Engineer | Wipro Technologies | 2005–2008 | — | Software engineering delivery |
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -36,11 +49,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilipsamanta&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Dilip's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsamanta&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dilipsamanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
