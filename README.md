@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP%20Server-111827?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/helm-%23797970.svg?style=for-the-badge&logo=helm&logoColor=white" />
@@ -32,16 +35,16 @@
 
 ---
 
-### � GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilipsamanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Dilip's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsamanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilipsamanta&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Dilip's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipsamanta&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipsamanta&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dilipsamanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
