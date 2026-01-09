@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dilip%20Samanta&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%7C%20Cloud%20Native%20Architect&descAlignY=51&descAlign=62)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33c3ff&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Dilip+Samanta;Engineering+Manager;Cloud+Native+Architect;DevOps+Enthusiast" alt="Typing SVG" />
 </div>
@@ -50,7 +52,7 @@
   <a href="https://linkedin.com/in/dilipsamanta" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:dilip.samanta@example.com">
+  <a href="mailto:dilip.samanta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
