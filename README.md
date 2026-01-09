@@ -25,11 +25,11 @@ graph LR
     D --> E((Sigma InfoSolutions<br/>Tech Program Manager<br/>2020-2021))
     E --> F((First American India<br/>Engineering Manager<br/>2021-Present))
 
-    style A fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
-    style B fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
-    style C fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
-    style D fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
-    style E fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
+    style A fill:#FF9900,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#326ce5,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#5835CC,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#0db7ed,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#00ADD8,stroke:#fff,stroke-width:2px,color:#fff
     style F fill:#7f00ff,stroke:#fff,stroke-width:4px,color:#fff
 ```
 
