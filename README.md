@@ -17,14 +17,19 @@
 
 ### 💼 Work Experience
 
-| Role | Company | Dates | Location | Highlights |
-| --- | --- | --- | --- | --- |
-| Engineering Manager | First American India | 2021–Present | Bangalore, India | Microservices scale (20K→100K RPU); Self-service “Golden Path”; -$400K/month cloud cost optimization |
-| Technical Program Manager | Sigma InfoSolutions | 2020–2021 | Bangalore, India | Led DevOps function; AWS CI/CD delivery; On-prem to AWS migration |
-| Development Project Manager | Prime Focus Technologies | 2020 | Bangalore, India | Warner Media programs; Agile delivery; UAT/integration testing and production support |
-| Development Project Manager | Taqniat Intelligent Solutions / Securetech LLC / Etisbew | 2011–2020 | Abu Dhabi, UAE | Microservices architecture; Scoped/contracted delivery; Coordinated release management |
-| Technical Lead | Bank of America | 2008–2011 | — | Technical leadership and delivery |
-| Software Engineer | Wipro Technologies | 2005–2008 | — | Software engineering delivery |
+```mermaid
+gantt
+    title Work Experience Timeline
+    dateFormat  YYYY
+    axisFormat  %Y
+    section Career
+    Engineering Manager (First American India)           :active, fa, 2021, 2026
+    Technical Program Manager (Sigma InfoSolutions)      :done, sigma, 2020, 2021
+    Dev Project Manager (Prime Focus Technologies)       :done, pft, 2020, 2020
+    Dev Project Manager (Taqniat / Securetech / Etisbew) :done, taq, 2011, 2020
+    Technical Lead (Bank of America)                     :done, boa, 2008, 2011
+    Software Engineer (Wipro Technologies)               :done, wipro, 2005, 2008
+```
 
 ---
 
