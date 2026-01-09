@@ -18,19 +18,19 @@
 ### 💼 Work Experience
 
 ```mermaid
-graph TD
+graph LR
     A((Wipro Technologies<br/>Software Engineer<br/>2005-2008)) --> B((Bank of America<br/>Technical Lead<br/>2008-2011))
     B --> C((Taqniat / Securetech<br/>Dev Project Manager<br/>2011-2020))
     C --> D((Prime Focus<br/>Dev Project Manager<br/>2020))
     D --> E((Sigma InfoSolutions<br/>Tech Program Manager<br/>2020-2021))
     E --> F((First American India<br/>Engineering Manager<br/>2021-Present))
 
-    style A fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
-    style B fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
-    style C fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
-    style D fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
-    style E fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
-    style F fill:#222,stroke:#7f00ff,stroke-width:4px,color:#fff
+    style A fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
+    style B fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
+    style C fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#33c3ff,stroke:#fff,stroke-width:2px,color:#000
+    style F fill:#7f00ff,stroke:#fff,stroke-width:4px,color:#fff
 ```
 
 ---
