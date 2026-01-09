@@ -18,17 +18,19 @@
 ### 💼 Work Experience
 
 ```mermaid
-gantt
-    title Work Experience Timeline
-    dateFormat  YYYY
-    axisFormat  %Y
-    section Career
-    Engineering Manager (First American India)           :active, fa, 2021, 2026
-    Technical Program Manager (Sigma InfoSolutions)      :done, sigma, 2020, 2021
-    Dev Project Manager (Prime Focus Technologies)       :done, pft, 2020, 2020
-    Dev Project Manager (Taqniat / Securetech / Etisbew) :done, taq, 2011, 2020
-    Technical Lead (Bank of America)                     :done, boa, 2008, 2011
-    Software Engineer (Wipro Technologies)               :done, wipro, 2005, 2008
+graph TD
+    A((Wipro Technologies<br/>Software Engineer<br/>2005-2008)) --> B((Bank of America<br/>Technical Lead<br/>2008-2011))
+    B --> C((Taqniat / Securetech<br/>Dev Project Manager<br/>2011-2020))
+    C --> D((Prime Focus<br/>Dev Project Manager<br/>2020))
+    D --> E((Sigma InfoSolutions<br/>Tech Program Manager<br/>2020-2021))
+    E --> F((First American India<br/>Engineering Manager<br/>2021-Present))
+
+    style A fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
+    style B fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
+    style C fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
+    style D fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
+    style E fill:#222,stroke:#33c3ff,stroke-width:2px,color:#fff
+    style F fill:#222,stroke:#7f00ff,stroke-width:4px,color:#fff
 ```
 
 ---
